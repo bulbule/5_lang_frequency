@@ -5,7 +5,6 @@ To run it one needs to indicate the path to the file in the command line
 in the following way:
 
 ```#!bash
-
 $ python lang_frequency.py alice.txt
 the
 and
@@ -17,7 +16,6 @@ i
 of
 said
 you
-
 ```
 
 
